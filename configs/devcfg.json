@@ -1,0 +1,93 @@
+{
+	"FV":	"1.0.0",
+	"VER":	{
+		"Tag":	"版本信息",
+		"num":	1,
+		"File":	"ver.json"
+	},
+	"MFR":	{
+		"Tag":	"生产信息",
+		"num":	1,
+		"File":	"mfr.json"
+	},
+	"YC":	{
+		"Tag":	"采样模块",
+		"num":	12,
+		"File":	"yc.json"
+	},
+	"YX":	{
+		"Tag":	"遥信模块",
+		"num":	2,
+		"File":	"yx.json"
+	},
+	"YK":	{
+		"Tag":	"遥控模块",
+		"num":	1,
+		"File":	"yk.json"
+	},
+	"COM":	{
+		"Tag":	"串口模块",
+		"num":	4,
+		"File":	"com.json"
+	},
+	"ETH":	{
+		"Tag":	"以太网模块",
+		"num":	1,
+		"File":	"eth.json"
+	},
+	"HMI":	{
+		"Tag":	"人机模块",
+		"num":	1,
+		"File":	"hmi.json"
+	},
+	"SD":	{
+		"Tag":	"SD卡模块",
+		"num":	1,
+		"File":	"sd.json"
+	},
+	"USB":	{
+		"Tag":	"USB模块",
+		"num":	1,
+		"File":	"usb.json"
+	},
+	"SPI":	{
+		"Tag":	"SPI模块",
+		"num":	1,
+		"File":	"spi.json"
+	},
+	"HWB":	{
+		"Tag":	"IRIG-B模块",
+		"Num":	0,
+		"File":	"hwb.json"
+	},
+	"PCIE":	{
+		"Tag":	"PCIE模块",
+		"Num":	0,
+		"File":	"pcie.json"
+	},
+	"DEBUG":	{
+		"Tag":	"调试模块",
+		"num":	0,
+		"File":	"debug.json"
+	},
+	"SETCFG":	{
+		"Tag":	"SETCFG模块",
+		"num":	1,
+		"File":	"setcfg.json"
+	},
+	"SET1":	{
+		"Tag":	"SET1模块",
+		"num":	1,
+		"File":	"set1.json"
+	},
+	"SET2":	{
+		"Tag":	"SET2模块",
+		"num":	1,
+		"File":	"set2.json"
+	},
+	"SET3":	{
+		"Tag":	"SET3模块",
+		"num":	1,
+		"File":	"set3.json"
+	}
+}

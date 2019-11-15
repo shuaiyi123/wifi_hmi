@@ -1,0 +1,12 @@
+{
+    "Tag": "遥控模块",
+    "FV": "1.0.0",
+    "Type": 1,
+    "KG": 0,
+    "CH1":{
+        "Name": "YK_1",        
+        "KeepTime": 100,
+        "ResetTime": 6000,
+        "Flag": 0       
+    }
+}

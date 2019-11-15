@@ -1,0 +1,25 @@
+{
+    "Tag": "人机模块",
+    "FV": "1.0.0",
+    "Type": 1,
+    
+    "LED1":{
+        "Name": "Run",
+        "KeepTime": 1000
+    },
+
+    "LED2":{
+        "Name": "Alarm",
+        "KeepTime": 1000
+    },
+
+    "LED3":{
+        "Name": "Line1",
+        "KeepTime": 1000
+    },
+
+    "LCD":{
+        "Name": "LCD",
+        "Type": 1
+    }    
+}

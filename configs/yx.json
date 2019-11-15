@@ -1,0 +1,18 @@
+{
+    "Tag": "遥信模块",
+    "FV": "1.0.0",
+    "Type": 1,
+    "KG": 0,
+    "CHN":[
+    {
+        "Name": "YX_1",        
+        "FilterTime": 10, 
+        "Flag": 0     
+    },
+    {
+        "Name": "YX_2",        
+        "FilterTime": 10,
+        "Flag": 0
+    }
+    ]
+}

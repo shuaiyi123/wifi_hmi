@@ -1,0 +1,11 @@
+{
+    "Tag": "USB模块",
+    "FV": "1.0.0",
+    "Type": 1,
+    "KG": 0,
+    "CH1":{
+        "Name": "USB",
+        "Dir" : "/media", 
+        "Mode": 0    
+    }
+}
